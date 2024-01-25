@@ -1,6 +1,6 @@
-#This is a simple quiz game,
-#that takes a user inout and award the user for a correct answer
-#and also deduct a point for a wrong answer.
+'''This is a simple quiz game,
+that takes a user input and award the user for a correct answer
+and also deduct a point for a wrong answer.'''
 
 print("welcome to the Quiz!")
 #taking input from the user 
